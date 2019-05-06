@@ -88,7 +88,7 @@ sleep 1
 
     cd sqlmap
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -105,7 +105,7 @@ sleep 1
 
     git clone https://github.com/wahyuandhika/YahooCloning
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -114,7 +114,7 @@ if [ $yat = 4 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -126,7 +126,7 @@ sleep 1
 
     cd mbf
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -135,7 +135,7 @@ if [ $yat = 5 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -145,7 +145,7 @@ sleep 1
 
     apt install bash -y 
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -154,7 +154,7 @@ if [ $yat = 6 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -162,7 +162,7 @@ sleep 1
 
     nano nikk.txt
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -171,7 +171,7 @@ if [ $yat = 7 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -185,7 +185,7 @@ sleep 1
 
     php 3.php
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -194,7 +194,7 @@ if [ $yat = 8 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -202,7 +202,7 @@ sleep 1
 
     curl -S https://pastebin.com/raw/yUpg8zsv --output fb.py
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -211,7 +211,7 @@ if [ $yat = 9 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -219,7 +219,7 @@ sleep 1
 
     git clone https://github.com/s0md3v/sqlmate
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -228,7 +228,7 @@ if [ $yat = 10 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -236,7 +236,7 @@ sleep 1
 
     git clone https://github.com/Tuhinshubhra/RED_HAWK
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -245,7 +245,7 @@ if [ $yat = 11 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -253,7 +253,7 @@ sleep 1
 
     nano shell.txt
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -262,7 +262,7 @@ if [ $yat = 12 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -276,7 +276,7 @@ sleep 1
 
     php 1.php
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -285,7 +285,7 @@ if [ $yat = 13 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -293,7 +293,7 @@ sleep 1
 
      git clone https://github.com/Moham3dRiahi/XBruteForcer.git
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 
@@ -302,7 +302,7 @@ if [ $yat = 14 ]
 then
 	clear
 
-	echo -e " WAIT - INSTALLING "
+	echo " WAIT - INSTALLING "
 
 sleep 1
 
@@ -312,7 +312,7 @@ sleep 1
 
     cmatrix 
 
-    echo -e " REDDY - DONE"
+    echo " REDDY - DONE"
 fi
 
 if [ $yat = 15 ]
@@ -322,7 +322,7 @@ then
 clear
  
 
-echo -e "
+echo "
 #############################
 | |  __    __     ___     _
 | | / /   /  \   |   \   | |
@@ -332,7 +332,7 @@ echo -e "
 |_| \_\   \__/   |_|   \___|    \ \ 
 #############################    \ \ "
 sleep 3
-echo -e " _______   ___    _       _      / /
+echo " _______   ___    _       _      / /
 |__   __| / _ \  | |     | |    / /
    | |   / | | \ | |     | | \ /  \ /
    | |   \ |_| / | |___  |_|  \ || /

@@ -9,7 +9,7 @@
 
 clear 
 
-figlet Coday'ID
+figlet CodayID
 sleep 2
 
 echo "\033[92m        *****************************************"
